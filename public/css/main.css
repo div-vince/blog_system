@@ -1,0 +1,13 @@
+:root {
+    --font-default: "Open sans";
+    --font-primary: 'League Spartan', sans-serif;
+    --font-secondary: "Quicksand", sans-serif;
+  }
+  
+  
+  /* Colors */
+  :root {
+    --color-default: #f1efe7;
+    --color-primary: #000000;
+    --color-secondary: #a6a6a6;
+  }
